@@ -7,6 +7,9 @@ In this project, a DCGAN is built and trained on a dataset of faces, and to get 
 The project is broken down into a series of following tasks:  
 ### 1. Pre-process and Loading data
 ### 2. Defining the Model
+
+<img src="https://github.com/Praveen-Samudrala/Deep-Learning/blob/main/Face%20Generation%20using%20DCGAN/Images/GANs.jpg" width=800>
+
   * Building Discriminator
   * Building Generator
   * Initialize the weights of the networks
@@ -19,8 +22,6 @@ The project is broken down into a series of following tasks:
   * Training Loss
   * Generator samples from training
 ### 4. Analysis of Generated Images
-  
-* helper.py
 
 ## Dataset:
 
@@ -28,8 +29,10 @@ The [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/project
 
 ## Result:
 
+<img src="https://github.com/Praveen-Samudrala/Deep-Learning/blob/main/Face%20Generation%20using%20DCGAN/Images/pic1.png" width=200>
+<img src="https://github.com/Praveen-Samudrala/Deep-Learning/blob/main/Face%20Generation%20using%20DCGAN/Images/pic2.png" width=200>
  
- ## Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements
 Credits must be given to Udacity for supporting while project development.
 
 ## Install
