@@ -5,20 +5,20 @@ In this project, a DCGAN is built and trained on a dataset of faces, and to get 
 
 
 The project is broken down into a series of following tasks:  
-1. Pre-process and Loading data
-2. Defining the Model
-  2.1 Building Discriminator
-  2.2 Building Generator
-  2.3 Initialize the weights of the networks
-  2.4 Building complete network
-  2.5 Discriminator and Generator Losses
-  2.6 Optimizers
-3. Training
-  3.1 Training Code
-  3.2 Training
-  3.3 Training Loss
-  3.4 Generator samples from training
-4. Analysis of Generated Images
+### 1. Pre-process and Loading data
+### 2. Defining the Model
+  * Building Discriminator
+  * Building Generator
+  * Initialize the weights of the networks
+  * Building complete network
+  * Discriminator and Generator Losses
+  * Optimizers
+### 3. Training
+  * Training Code
+  * Training
+  * Training Loss
+  * Generator samples from training
+### 4. Analysis of Generated Images
   
 * helper.py
 
