@@ -23,7 +23,7 @@ Sample Result
   src="https://github.com/Praveen-Samudrala/Deep-Learning/blob/main/Semantic%20Search%20with%20Cohere%20API/example.png"
   alt="Sample Result"
   title="Sample Result"
-  style="display: inline-block; margin: 0 auto; width:500px; height:300px"/></p>
+  style="display: inline-block; margin: 0 auto; width:1000px; height:300px"/></p>
 <b>Faces detected with keypoints marked on each of the detected face</b> <br>
  
 
