@@ -20,7 +20,7 @@ The approach to the problem is tackled in the below steps:
 ## Result:
 Sample Result
 <p><img
-  src=""
+  src="https://github.com/Praveen-Samudrala/Deep-Learning/blob/main/Semantic%20Search%20with%20Cohere%20API/example.png"
   alt="Sample Result"
   title="Sample Result"
   style="display: inline-block; margin: 0 auto; width:500px; height:300px"/></p>
